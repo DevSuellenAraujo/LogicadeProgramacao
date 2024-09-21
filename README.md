@@ -28,6 +28,7 @@ Este repositório contém uma coleção de exercícios e desafios de lógica de 
 
 Os exercícios estão implementados em várias linguagens para abranger diferentes perfis de desenvolvedores. Atualmente, este repositório contém soluções nas seguintes linguagens:
 
+- Portugol
 - C
 
 Esse `README.md` organiza bem o conteúdo, dando uma visão clara dos níveis de dificuldade, das linguagens e de como contribuir, com exemplos de execução dos exercícios.
